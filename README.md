@@ -1,9 +1,12 @@
 # -arboles_iris_Programacion_coralCastillo-
 Recuperacion: Genera la práctica de árboles de decisión utilizando el dataset:  from sklearn.datasets import load_iris
 
+En esta práctica se implementa un modelo de árbol de decisión utilizando el dataset Iris, el cual se obtiene desde la librería sklearn.datasets mediante la función load_iris.
+Se entrenan modelos con y sin límite de profundidad para analizar su comportamiento y precisión.
+
 Cuales son tus opiniones de los resultados.
-Si crees que tu base de conocimiento cumple con los requerimientos para utilizarse en un modelo de árbol de decisiones.
-Justifica el porqué sí o por qué no.
+Los resultados obtenidos muestran que el modelo de árbol de decisiones funciona correctamente con el dataset Iris.
+El árbol con profundidad limitada genera reglas más simples y fáciles de interpretar, mientras que el árbol sin límite de profundidad obtiene una mayor precisión, aunque con una mayor complejidad 
 
 Esta base de conocimientos si cumple con los requerimientos para utilizarse en un modelo de arbol
 Ya que so conjunto de datos es adecuado, porque tiene atributos numericos claros,
